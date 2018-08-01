@@ -20,7 +20,7 @@ function add2(n) {
   // Feel free to move things around!
 
 }
-console.log(add2(n))
+
 var funkyFunction = function() {
   return function() {
     return "FUNKY!"
